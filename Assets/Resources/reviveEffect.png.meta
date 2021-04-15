@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: b804d01c05f5f04418669498a9c103bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3580799194092542673
+    second: reviveEffect_0
+  - first:
+      213: 8857663632839609616
+    second: reviveEffect_1
+  - first:
+      213: -6936294151458324250
+    second: reviveEffect_2
+  - first:
+      213: 328387414275643862
+    second: reviveEffect_3
+  - first:
+      213: 1843020905253126271
+    second: reviveEffect_4
+  - first:
+      213: -506531449416613463
+    second: reviveEffect_5
+  - first:
+      213: -6252897862956586403
+    second: reviveEffect_6
+  - first:
+      213: 4127793117704759656
+    second: reviveEffect_7
+  - first:
+      213: 1430046254012139793
+    second: reviveEffect_8
+  - first:
+      213: 4525496337138524531
+    second: reviveEffect_9
+  - first:
+      213: 4138427657468530949
+    second: reviveEffect_10
+  - first:
+      213: -1445363600512211489
+    second: reviveEffect_11
+  - first:
+      213: 6016828822393605855
+    second: reviveEffect_12
+  - first:
+      213: -5704450997801813666
+    second: reviveEffect_13
+  - first:
+      213: 450078524623457749
+    second: reviveEffect_14
+  - first:
+      213: -1480659805571739103
+    second: reviveEffect_15
+  - first:
+      213: -7515750261226989208
+    second: reviveEffect_16
+  - first:
+      213: 5226053046185599428
+    second: reviveEffect_17
+  - first:
+      213: 2931218698633351200
+    second: reviveEffect_18
+  - first:
+      213: 4705785128734886732
+    second: reviveEffect_19
+  - first:
+      213: -3689263001923157259
+    second: reviveEffect_20
+  - first:
+      213: -8788756718142974962
+    second: reviveEffect_21
+  - first:
+      213: 4135254061200126462
+    second: reviveEffect_22
+  - first:
+      213: 7653349385783716988
+    second: reviveEffect_23
+  - first:
+      213: 1419673885327129898
+    second: reviveEffect_24
+  - first:
+      213: 3722446622389807531
+    second: reviveEffect_25
+  - first:
+      213: -6173129891702424688
+    second: reviveEffect_26
+  - first:
+      213: -1412704727244901645
+    second: reviveEffect_27
+  - first:
+      213: -5423605804409208931
+    second: reviveEffect_28
+  - first:
+      213: 874553202217312707
+    second: reviveEffect_29
+  - first:
+      213: -3830825880363635996
+    second: reviveEffect_30
+  - first:
+      213: 8153824192035112457
+    second: reviveEffect_31
+  - first:
+      213: 515474033387531430
+    second: reviveEffect_32
+  - first:
+      213: -8336390457711557863
+    second: reviveEffect_33
+  - first:
+      213: 7456508821476810235
+    second: reviveEffect_34
+  - first:
+      213: 8540441249004844496
+    second: reviveEffect_35
+  - first:
+      213: -8706173494999935669
+    second: reviveEffect_36
+  - first:
+      213: -6675733868505948016
+    second: reviveEffect_37
+  - first:
+      213: -1180616753377719342
+    second: reviveEffect_38
+  - first:
+      213: -8666369408361392273
+    second: reviveEffect_39
+  - first:
+      213: -2023473852511450108
+    second: reviveEffect_40
+  - first:
+      213: 6499877436814253668
+    second: reviveEffect_41
+  - first:
+      213: -8882766927330103677
+    second: reviveEffect_42
+  - first:
+      213: 4001314708897969457
+    second: reviveEffect_43
+  - first:
+      213: -4408508630095347975
+    second: reviveEffect_44
+  - first:
+      213: 5445686866606163827
+    second: reviveEffect_45
+  - first:
+      213: 6458479935653066921
+    second: reviveEffect_46
+  - first:
+      213: -2048660725724917414
+    second: reviveEffect_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reviveEffect_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1626
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25eb18da127e4ec0800000000000000
+      internalID: -3580799194092542673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1624
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0d47e42ebcea70800000000000000
+      internalID: 8857663632839609616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1623
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e005b428355dbf90800000000000000
+      internalID: -6936294151458324250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1620
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9db980d9aae8400800000000000000
+      internalID: 328387414275643862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1487
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f704b33afb9b39910800000000000000
+      internalID: 1843020905253126271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1484
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a185f9945078f8f0800000000000000
+      internalID: -506531449416613463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1480
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6cadd58e3939a0800000000000000
+      internalID: -6252897862956586403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1469
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869281778fdd84930800000000000000
+      internalID: 4127793117704759656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 865
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4999986, y: 0.44981948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11985c6cd7b88d310800000000000000
+      internalID: 1430046254012139793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1340
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371297701facdce30800000000000000
+      internalID: 4525496337138524531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1338
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50150143706ae6930800000000000000
+      internalID: 4138427657468530949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1338
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a034967901fbe0800000000000000
+      internalID: -1445363600512211489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 701
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4a197fe1108350800000000000000
+      internalID: 6016828822393605855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1334
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59766d7a08b5d0b0800000000000000
+      internalID: -5704450997801813666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1204
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd863598000f3600800000000000000
+      internalID: 450078524623457749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1200
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12292bf60c3a37be0800000000000000
+      internalID: -1480659805571739103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1196
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869140325f0b2b790800000000000000
+      internalID: -7515750261226989208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_17
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1079
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1ad338e8ba68840800000000000000
+      internalID: 5226053046185599428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_18
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 981
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020160b40e7cda820800000000000000
+      internalID: 2931218698633351200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1086
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0f8b64ae4e4140800000000000000
+      internalID: 4705785128734886732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_20
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1190
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f20167a8da1dccc0800000000000000
+      internalID: -3689263001923157259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1143
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0492c56450180680800000000000000
+      internalID: -8788756718142974962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 994
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef133ddb8af536930800000000000000
+      internalID: 4135254061200126462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1059
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ca79997b8263a60800000000000000
+      internalID: 7653349385783716988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1121
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d72df70e1b3b310800000000000000
+      internalID: 1419673885327129898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1137
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a5ee0b79c8a330800000000000000
+      internalID: 3722446622389807531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1052
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b3bb4f113a45aa0800000000000000
+      internalID: -6173129891702424688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1130
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f27d001980156ce0800000000000000
+      internalID: -1412704727244901645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1045
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f3172a14b7bb4b0800000000000000
+      internalID: -5423605804409208931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1e75bf089032c00800000000000000
+      internalID: 874553202217312707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1049
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6d8c882c26dac0800000000000000
+      internalID: -3830825880363635996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 916
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9064d3fd6e3382170800000000000000
+      internalID: 8153824192035112457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 912
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac600bf6e4572700800000000000000
+      internalID: 515474033387531430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 909
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913852bfb013f4c80800000000000000
+      internalID: -8336390457711557863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 978
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd11b05447da7760800000000000000
+      internalID: 7456508821476810235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_35
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 909
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5f608111eb58670800000000000000
+      internalID: 8540441249004844496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 767
+        width: 51
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b459b9565557d2780800000000000000
+      internalID: -8706173494999935669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_37
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 767
+        width: 51
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a8a88a670b53a0800000000000000
+      internalID: -6675733868505948016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 767
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbcb07615b9d9fe0800000000000000
+      internalID: -1180616753377719342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 767
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f679e4280fedab780800000000000000
+      internalID: -8666369408361392273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 639
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c83c0804d2be3e0800000000000000
+      internalID: -2023473852511450108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 639
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed3e84714343a50800000000000000
+      internalID: 6499877436814253668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 639
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ea6e1ea821ab480800000000000000
+      internalID: -8882766927330103677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_43
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 639
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135b8622786878730800000000000000
+      internalID: 4001314708897969457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 476
+        width: 54
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3ce912c4d1d2c0800000000000000
+      internalID: -4408508630095347975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 476
+        width: 55
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377021a4a57f29b40800000000000000
+      internalID: 5445686866606163827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 511
+        width: 57
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b691784121a950800000000000000
+      internalID: 6458479935653066921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reviveEffect_47
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 511
+        width: 54
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515fd99ce1b193e0800000000000000
+      internalID: -2048660725724917414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
